@@ -1,1 +1,6 @@
-# Airlines-Passengers-Clustering
+# Airlines-Passengers-Clustering  
+
+Objectives : Analyze customer value segmentation  
+
+## Summary  
+
